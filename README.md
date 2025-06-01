@@ -9,7 +9,7 @@ A simple arcade-style car racing game built using Python and Pygame. Navigate yo
 
 | Gameplay | Crash Screen |
 |----------|--------------|
-| ![Gameplay](assets/gameplay.png) | ![Crash](assets/crash.png) |
+| ![CAR-GAME](https://github.com/user-attachments/assets/ae575f12-1479-49b4-b8a1-dc6c16ab8b91) | ![Screenshot (58)](https://github.com/user-attachments/assets/6a69222a-0786-4782-8bb8-9a64875ccba3) |
 
 > ⚠️ Place your screenshots in an `assets/` folder and name them `gameplay.png` and `crash.png` accordingly.
 
@@ -29,6 +29,7 @@ A simple arcade-style car racing game built using Python and Pygame. Navigate yo
 
 - **Python 3.x**
 - **Pygame**
+
 
 
 ## 🚀 How to Run
@@ -63,7 +64,7 @@ A simple arcade-style car racing game built using Python and Pygame. Navigate yo
 ![CAR-GAME](https://github.com/user-attachments/assets/ae575f12-1479-49b4-b8a1-dc6c16ab8b91)
 
 ### 💥 Game Over:
-![CRASH-DETECTION](https://github.com/user-attachments/assets/25942700-5ec3-4d57-8e32-99ad858eb8d6)
+![CRASH-DETECTION](https://github.com/user-attachments/assets/6a69222a-0786-4782-8bb8-9a64875ccba3)
 ---
 
 ## 💡 Future Enhancements
